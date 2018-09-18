@@ -22,6 +22,7 @@
     NSLog(@"second");
     NSLog(@"third");
     NSLog(@"forth");
+    NSLog(@"修改了一个bug");
 }
 
 
