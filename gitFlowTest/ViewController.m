@@ -20,6 +20,7 @@
     ////////
     NSLog(@"feature-ebike-test1");
     NSLog(@"feature-ebike-test1");
+    NSLog(@"改了bug");
 }
 
 
