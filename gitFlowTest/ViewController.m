@@ -18,9 +18,6 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     ////////
-    NSLog(@"feature-ebike-test1");
-    NSLog(@"feature-ebike-test1");
-    NSLog(@"改了bug");
 }
 
 
